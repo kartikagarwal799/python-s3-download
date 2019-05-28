@@ -1,1 +1,2 @@
 docker run -t -p 80:80 -name web1 nginx
+docker create network abc 
